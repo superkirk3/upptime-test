@@ -1,20 +1,20 @@
 [
   {
-    "name": "google",
+    "name": "wiki.ui.com",
     "url": "https://wiki.ui.com",
     "icon": "https://ui.com/microsite/static/media/icon-uid.98462f7d.png",
-    "slug": "google",
+    "slug": "wiki-ui-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1588,
-    "timeDay": 1588,
-    "timeWeek": 1588,
-    "timeMonth": 1588,
-    "timeYear": 1588,
+    "time": 1295,
+    "timeDay": 1295,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {}
   }
 ]
